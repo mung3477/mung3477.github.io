@@ -1,11 +1,14 @@
 ---
+title: "github.io 블로그 시작하기"
+excerpt: "GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다."
 
-title: "github.io 블로그 시작하기" excerpt: "GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다."
-
-categories: - Blog tags: - Blog
+categories:
+  - Blog
+tags:
+  - Blog
 
 last_modified_at: 2020-06-29T20:23:00-05:00
--------------------------------------------
+---
 
 Github blog 서비스인 github.io 블로그를 시작하기로 했습니다. 서비스의 이름은 Pages입니다.
 
