@@ -1,15 +1,17 @@
 ---
-title: "github.io ºí·Î±× ½ÃÀÛÇÏ±â"
-excerpt: "GitHub Blog ¼­ºñ½ºÀÎ github.io ºí·Î±×¸¦ ½ÃÀÛÇÏ±â·Î Çß´Ù."
+title: "github.io ë¸”ë¡œê·¸ ì‹œìž‘í•˜ê¸°"
+excerpt: "GitHub Blog ì„œë¹„ìŠ¤ì¸ github.io ë¸”ë¡œê·¸ë¥¼ ì‹œìž‘í•˜ê¸°ë¡œ í–ˆë‹¤."
 
-categories: - Blog
-tags: - Blog
+categories: 
+    - Blog
+tags: 
+    - Blog
 
 last_modified_at: 2020-06-29T20:23:00-05:00
 ---
 
-Github blog ¼­ºñ½ºÀÎ github.io ºí·Î±×¸¦ ½ÃÀÛÇÏ±â·Î Çß½À´Ï´Ù. ¼­ºñ½ºÀÇ ÀÌ¸§Àº PagesÀÔ´Ï´Ù.
+Github blog ì„œë¹„ìŠ¤ì¸ github.io ë¸”ë¡œê·¸ë¥¼ ì‹œìž‘í•˜ê¸°ë¡œ í–ˆìŠµë‹ˆë‹¤. ì„œë¹„ìŠ¤ì˜ ì´ë¦„ì€ Pagesìž…ë‹ˆë‹¤.
 
-Pages°¡ ³×ÀÌ¹ö ºí·Î±×º¸´Ù ±Û ¾²±â°¡ ÆíÇÏ´Ù°í ÇÏ¿© °¥¾ÆÅÀ½À´Ï´Ù. ¾ÕÀ¸·Î ÄÚµù / ÄÄÇ»ÅÍ °ü·Ã °øºÎ±ÛÀº ¿©±â¿¡ ¾µ ¿¹Á¤.
+Pagesê°€ ë„¤ì´ë²„ ë¸”ë¡œê·¸ë³´ë‹¤ ê¸€ ì“°ê¸°ê°€ íŽ¸í•˜ë‹¤ê³  í•˜ì—¬ ê°ˆì•„íƒ”ìŠµë‹ˆë‹¤. ì•žìœ¼ë¡œ ì½”ë”© / ì»´í“¨í„° ê´€ë ¨ ê³µë¶€ê¸€ì€ ì—¬ê¸°ì— ì“¸ ì˜ˆì •.
 
-YFM¿¡¼­ Á¤ÀÇÇÑ Á¦¸ñÀ» ÀÌÁß °ýÈ£ ±¸¹®À¸·Î º»¹®¿¡ Ãß°¡ÇÒ ¼ö ÀÖ½À´Ï´Ù. ÀÌ ±ÛÀÇ Á¦¸ñÀº {{ page.title }}ÀÌ°í ¸¶Áö¸·À¸·Î ¼öÁ¤µÈ ½Ã°£Àº {{ page.last_modified_at }}ÀÔ´Ï´Ù.
+YFMì—ì„œ ì •ì˜í•œ ì œëª©ì„ ì´ì¤‘ ê´„í˜¸ êµ¬ë¬¸ìœ¼ë¡œ ë³¸ë¬¸ì— ì¶”ê°€í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ì´ ê¸€ì˜ ì œëª©ì€ {{ page.title }}ì´ê³  ë§ˆì§€ë§‰ìœ¼ë¡œ ìˆ˜ì •ëœ ì‹œê°„ì€ {{ page.last_modified_at }}ìž…ë‹ˆë‹¤.

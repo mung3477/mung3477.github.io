@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Çã½¬ÀÇ ÄÚµù ¶óÀÌÇÁ"
+title                    : "í—ˆì‰¬ì˜ ì½”ë”© ë¼ì´í”„"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Çã½¬ÀÇ ÄÚµù ¶óÀÌÇÁ"
-description              : "ÄÚµù ¸øÇÏ´Â ÄÄ°ú»ıÀÔ´Ï´Ù."
+name                     : "í—ˆì‰¬ì˜ ì½”ë”© ë¼ì´í”„"
+description              : "ì½”ë”© ëª»í•˜ëŠ” ì»´ê³¼ìƒì…ë‹ˆë‹¤."
 url                      : "https://mung3477.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Çã½¬"
+  name             : "í—ˆì‰¬"
   avatar           : "/assets/images/brown-dog.png"
-  bio              : "ÄÚµù ¸øÇÏ´Â ÄÄÇ»ÅÍÇĞ°ú ÇĞ»ı"
+  bio              : "ì½”ë”© ëª»í•˜ëŠ” ì»´í“¨í„°í•™ê³¼ í•™ìƒ"
   location         : "South Korea"
   email            : "mung3477@kakao.com"
   links:
