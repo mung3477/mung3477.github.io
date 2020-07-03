@@ -27,3 +27,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# corrupted files
+*/_posts/2020-06-29-text-formats.md
