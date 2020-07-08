@@ -1,6 +1,6 @@
 ---
 title: 자주 쓰는 template 함수들
-excerpt: ""
+excerpt: "PS 하면서 매번 cplusplus.com을 참고할 순 없으니, 정리도 해둘 겸 메모하면서 외울 겸 제가 자주 찾아보는 함수들을 정리해두려고 합니다."
 categories:
  - PS
 tags:
