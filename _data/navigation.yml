@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "PS"
     url: /categories/PS/
- - title: "Categories"
+  - title: "Categories"
     url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
