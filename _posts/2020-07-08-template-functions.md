@@ -8,6 +8,7 @@ tags:
  - PS
  - Algorithm
 last_modified_at: 2020-07-23T13:50-05:00
+use_math: true
 ---
 
 PS 하면서 매번 [cplusplus](https://cplusplus.com) 를 참고할 순 없으니, 정리도 해둘 겸 메모하면서 외울 겸 제가 자주 찾아보는 함수들을 정리해두려고 합니다. PS 공부를 하면서 꾸준히 작성해야지.
